@@ -49,7 +49,7 @@
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python" />
-  
+
 </div>
 
 **Web Development**
@@ -73,27 +73,27 @@
 **Operating Systems**
 
 <div align="center">
-  
+
   <img src="https://skillicons.dev/icons?i=ubuntu" height="40" alt="Ubuntu" />
   <img src="https://skillicons.dev/icons?i=mint" height="40" alt="Mint" />
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux" />
   <img src="https://skillicons.dev/icons?i=windows" height="40" alt="Windows" />
-  
+
 </div>
 
 **Others**
 
 <div align="center">
-  
+
   <img src="https://skillicons.dev/icons?i=ps" height="40" alt="Photoshop" />
   <img src="https://skillicons.dev/icons?i=ai" height="40" alt="Illustrator" />
    <img src="https://skillicons.dev/icons?i=pr" height="40" alt="Premiere Pro" />
   <img src="https://skillicons.dev/icons?i=notion" height="40" alt="Notion" />
   <img src="https://skillicons.dev/icons?i=obsidian" height="40" alt="Obsidian" />
- 
 
-  
-  
+
+
+
 </div>
 
 ---
@@ -102,7 +102,7 @@
 
 <p align="center"> <a href="https://instagram.com/fardinnuman" target="blank"><img
       src="https://img.shields.io/twitter/follow/fardinnuman?logo=twitter&style=for-the-badge" /></a> </p>
-<p align="center"> 
+<p align="center">
 <a href="https://facebook.com/fardinnuman.r" target="blank"><img
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       height="30" width="40" /></a>
@@ -110,10 +110,10 @@
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg"
       height="30" width="40" /></a>
       <a href="https://linkedin.com/in/fardinnuman" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" height="30" width="40" alt="LinkedIn" /></a>
-     <a href="https://twitter.com/fardinnuman" target="blank"><img src="https://skillicons.dev/icons?i=twitter" height="30" width="40" alt="Twitter" /></a>   
+     <a href="https://twitter.com/fardinnuman" target="blank"><img src="https://skillicons.dev/icons?i=twitter" height="30" width="40" alt="Twitter" /></a>
      </a>
      <a href="https://discord.com/fardinnuman" target="blank"><img src="https://skillicons.dev/icons?i=discord" height="30" width="40" alt="Discord" /></a>
-     
+
 
 
 ---
@@ -124,23 +124,10 @@
       src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" /> </a>
 <a
     href="https://www.hackerrank.com/fardinnuman" target="_blank"> <img
-      src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /> </a>     
+      src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /> </a>
       <a href="https://www.leetcode.com/fardinnuman" target="_blank"> <img
       src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /> </a>
       <a href="https://www.codechef.com/users/fardinnuman" target="_blank"> <img
       src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" />
-  </a> 
+  </a>
 </div>
-
-<div align="center"> <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=150&section=footer" /> </div> 
-
-👾 PAC-MAN Contribution Graph
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/fardinnuman/fardinnuman/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/fardinnuman/fardinnuman/output/pacman-contribution-graph.svg"> <img
-    alt="pacman contribution graph"
-    src="https://raw.githubusercontent.com/fardinnuman/fardinnuman/output/pacman-contribution-graph.svg">
-</picture>
