@@ -131,3 +131,8 @@
       src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" />
   </a>
 </div>
+
+### 🐍 Watch my contribution graph get eaten by a Snake!
+
+<img src="https://github.com/fardinnuman/fardinnuman/raw/output/snake.svg" alt="Snake animation" />
+
