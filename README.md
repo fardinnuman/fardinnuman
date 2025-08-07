@@ -33,7 +33,7 @@
 <div align="center"> <img height="180em"
     src="https://github-readme-stats.vercel.app/api?username=fardinnuman&show_icons=true&theme=radical&hide_border=true&bg_color=0D1120&title_color=5D3FD3&icon_color=5D3FD3" />
   <img height="166em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=fardinnuman&layout=compact&theme=radical&hide_border=true&bg_color=0D1120&title_color=5D3FD3" />
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=fardinxnuman&layout=compact&theme=radical&hide_border=true&bg_color=0D1120&title_color=5D3FD3" />
   <img height="170em"
     src="https://github-readme-streak-stats.herokuapp.com/?user=fardinnuman&theme=radical&hide_border=true&background=0D1117&stroke=5D3FD3" />
 </div>
