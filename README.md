@@ -132,7 +132,9 @@
   </a>
 </div>
 
-### 🐍 Watch my contributions get eaten by my ex uwu :(
+---
+
+### 🐍 Watch my contributions get eaten by a Snake!
 <div align="center">
 
   
