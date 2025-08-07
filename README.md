@@ -132,8 +132,12 @@
   </a>
 </div>
 
-### 🐍 Watch my contribution graph get eaten by a Snake!
+### 🐍 Watch my contributions get eaten by my ex uwu :(
+<div align="center">
 
-<img src="https://github.com/fardinnuman/raw/output/snake.svg" alt="Snake animation" />
+  
+![snake gif](https://github.com/fardinnuman/fardinnuman/blob/output/github-snake-dark.svg)
 
+
+</div>
 
