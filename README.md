@@ -134,5 +134,6 @@
 
 ### 🐍 Watch my contribution graph get eaten by a Snake!
 
-<img src="https://github.com/fardinnuman/fardinnuman/raw/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/fardinnuman/raw/output/snake.svg" alt="Snake animation" />
+
 
