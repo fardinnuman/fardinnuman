@@ -123,9 +123,9 @@
 <a href="https://codeforces.com/profile/fardinnuman" target="_blank"> <img
       src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" /> </a>
 <a
-    href="https://www.hackerrank.com/fardinnuman" target="_blank"> <img
+    href="https://www.hackerrank.com/profile/fardinnuman" target="_blank"> <img
       src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /> </a>
-      <a href="https://www.leetcode.com/fardinnuman" target="_blank"> <img
+      <a href="https://www.leetcode.com/u/fardinnuman" target="_blank"> <img
       src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /> </a>
       <a href="https://www.codechef.com/users/fardinnuman" target="_blank"> <img
       src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" />
