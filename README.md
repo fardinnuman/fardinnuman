@@ -22,9 +22,9 @@
 - 🎓 1st Year CSE Student at **RUET (Rajshahi University of Engineering & Technology)**
 - 💻 Currently learning **C, C++** and exploring **Python, Git and Linux**
 - 🌱 Focused on **DSA**, **OOP** and **Web Development**
-- 🎯 Career Interests: **AI/ML**, **Cybersecurity** and **Software Engineering**
-- ✨ Portfolio: [**fardinnuman.netlify.app**](https://fardinnuman.netlify.app)
-- 📩 Reach me at: **fardinnuman@gmail.com**
+- 🎯 Career Interests : **AI/ML**, **Cybersecurity** and **Software Engineering**
+- ✨ Portfolio : [**fardinnuman.me**](https://fardinnuman.me)
+- 📩 Reach me at : **fardinnuman@gmail.com**
 
 ---
 
