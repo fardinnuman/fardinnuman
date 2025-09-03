@@ -103,7 +103,7 @@
 <p align="center"> <a href="https://instagram.com/fardinnuman" target="blank"><img
       src="https://img.shields.io/twitter/follow/fardinnuman?logo=twitter&style=for-the-badge" /></a> </p>
 <p align="center">
-<a href="https://facebook.com/fardinnuman.r" target="blank"><img
+<a href="https://facebook.com/i.fardinnuman" target="blank"><img
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       height="30" width="40" /></a>
 <a href="https://instagram.com/fardinnuman" target="blank"><img src="https://skillicons.dev/icons?i=instagram" height="30" width="40" alt="Instagram" /></a> <a href="https://wa.me/8801406369675" target="blank"><img
