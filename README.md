@@ -137,7 +137,7 @@
 
 ---
 
-### 🐍 Watch my contributions get eaten by a Snake!
+### 🐍 Watch my contributions get eaten by my classmates! :(
 <div align="center">
 
   
