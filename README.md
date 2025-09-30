@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width='80'/>
+
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=29&duration=2500&pause=1000&color=ffffff&center=true&vCenter=true&width=435&lines=%20%3E.%3C%20Hiiiiiiii%20%3E.%3C%20;I%20AM%20FARDIN%20NUMAN;CSE%20STUDENT%20AT%20RUET;PASSIONATE%20CODER;PROBLEM%20SOLVER"
     alt="Typing SVG" />
@@ -10,20 +12,21 @@
 
 ---
 
-<p align="center">
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=fardinnuman&label=Profile%20views&color=0e75b6&style=flat"
-    alt="fardinnuman" />
-</p>
+    alt="fardinnuman"/> 
+  
+  [![Github](https://img.shields.io/github/followers/fardinnuman?label=Follow&style=social)](https://github.com/fardinnuman)&nbsp;
 
-<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=fardinnuman&theme=algolia&row=1&margin-w=15" alt="Trophies">
-</p>
+
+</div>
 
 ---
 
 ### 🧠 Who Am I?
 
-- 🎓 1st Year CSE Student at **Rajshahi University of Engineering & Technology-RUET**
+- 🎓 1st Year **CSE** Student at **Rajshahi University of Engineering & Technology-RUET**
 - 💻 Currently learning **C, C++** and exploring **Python, Git and Linux**
 - 🌱 Focused on **DSA**, **OOP** and **Web Development**
 - 🎯 Career Interests : **AI/ML**, **Cybersecurity** and **Software Engineering**
