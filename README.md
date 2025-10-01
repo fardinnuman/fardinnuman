@@ -24,10 +24,14 @@
 
 ---
 
-### 🧠 Who Am I?
+<div align="center">
 
-- 🎓 1st Year **CSE** Student at **Rajshahi University of Engineering & Technology-RUET**
-- 💻 Currently learning **C, C++** and exploring **Python, Git and Linux**
+## 🧠 Who Am I?
+
+</div>
+
+- 🎓 1st Year **Computer Science and Engineering** student at **Rajshahi University of Engineering & Technology-RUET**
+- 💻 Currently learning **C, C++** and exploring **Python & Linux**
 - 🌱 Focused on **DSA**, **OOP** and **Web Development**
 - 🎯 Career Interests : **AI/ML**, **Cybersecurity** and **Software Engineering**
 - 💼 Portfolio : [**fardinnuman.me**](https://fardinnuman.me)
@@ -35,7 +39,9 @@
 
 ---
 
-### 📈 GitHub Stats
+<div align="center">
+
+## 📈 GitHub Stats
 
 <div align="center"> <img height="180em"
     src="https://github-readme-stats.vercel.app/api?username=fardinnuman&show_icons=true&theme=radical&hide_border=true&bg_color=0D1120&title_color=5D3FD3&icon_color=5D3FD3" />
@@ -47,9 +53,9 @@
 
 ---
 
-### 💻 Tech Stack
+## 💻 Tech Stack
 
-**Programming Languages**
+### **Programming Languages**
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="C" />
@@ -59,7 +65,7 @@
 
 </div>
 
-**Web Development**
+### **Web Development**
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML" />
@@ -67,7 +73,7 @@
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" />
 </div>
 
-**Tools & Platforms**
+### **Tools & Platforms**
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=atom" height="40" alt="Atom" />
@@ -77,10 +83,9 @@
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
 </div>
 
-**Operating Systems**
+### **Operating Systems**
 
 <div align="center">
-
   <img src="https://skillicons.dev/icons?i=ubuntu" height="40" alt="Ubuntu" />
   <img src="https://skillicons.dev/icons?i=mint" height="40" alt="Mint" />
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux" />
@@ -88,7 +93,7 @@
 
 </div>
 
-**Others**
+### **Others**
 
 <div align="center">
 
@@ -98,14 +103,11 @@
   <img src="https://skillicons.dev/icons?i=notion" height="40" alt="Notion" />
   <img src="https://skillicons.dev/icons?i=obsidian" height="40" alt="Obsidian" />
 
-
-
-
 </div>
 
 ---
 
-### 🌎 Connect With Me
+## 🌎 Connect With Me
 
 <p align="center"> <a href="https://instagram.com/fardinnuman" target="blank"><img
       src="https://img.shields.io/twitter/follow/fardinnuman?logo=twitter&style=for-the-badge" /></a> </p>
@@ -124,7 +126,7 @@
 
 ---
 
-### 💻 Coding Profiles
+## 💻 Coding Profiles
 <div align="center">
 <a href="https://codeforces.com/profile/fardinnuman" target="_blank"> <img
       src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" /> </a>
@@ -140,9 +142,7 @@
 
 ---
 
-### 🐍 Watch my contributions get eaten by my classmates! :(
-<div align="center">
-
+## 🐍 Watch my contributions get eaten by my classmates! :(
   
 ![snake gif](https://github.com/fardinnuman/fardinnuman/blob/output/github-snake-dark.svg)
 
