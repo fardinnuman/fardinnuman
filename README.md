@@ -147,7 +147,7 @@
 
 ---
 
-## 🐍 Watch my contributions get eaten by my classmates! :(
+## 🐍 Watch my contributions get eaten by my classmates! :)
   
 ![snake gif](https://github.com/fardinnuman/fardinnuman/blob/output/github-snake-dark.svg)
 
