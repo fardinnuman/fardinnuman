@@ -139,8 +139,7 @@
   
 ![snake gif](https://github.com/fardinnuman/fardinnuman/blob/output/github-snake-dark.svg)
 
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=gradient&text=THANK%20YOU!&reversal=false&section=footer&fontSize=48&animation=twinkling&fontAlignY=80">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=gradient&text=THANK%20YOU!&reversal=false&section=footer&fontSize=45&animation=twinkling&fontAlignY=80">
 
 </div>
 
