@@ -55,70 +55,51 @@
 
 ## 📈 GitHub Stats
 
-<div align="center"> <img height="180em"
+  <img height="180em"
     src="https://github-readme-stats.vercel.app/api?username=fardinnuman&show_icons=true&theme=radical&hide_border=true&bg_color=0D1120&title_color=5D3FD3&icon_color=5D3FD3" />
   
  <img height="170em"
     src="https://github-readme-streak-stats.herokuapp.com/?user=fardinnuman&theme=radical&hide_border=true&background=0D1117&stroke=5D3FD3" />
 
-<img height="166em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=fardinnuman&layout=compact&theme=radical&hide_border=true&bg_color=0D1120&title_color=5D3FD3" />
-
-</div>
-
----
+  <img width="42%" alt="fardinnuman :: Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fardinnuman&langs_count=10&theme=radical&bg_color=0D1120&title_color=5D3FD3&layout=compact&hide_border=true"/>
 
 ## 💻 Tech Stack
 
 ### **Programming Languages**
 
-<div align="center">
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="C" />
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python" />
 
-</div>
-
 ### **Web Development**
 
-<div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" />
-</div>
 
 ### **Tools & Platforms**
 
-<div align="center">
   <img src="https://skillicons.dev/icons?i=atom" height="40" alt="Atom" />
   <img src="https://skillicons.dev/icons?i=sublime" height="40" alt="Sublime" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
-</div>
 
 ### **Operating Systems**
 
-<div align="center">
   <img src="https://skillicons.dev/icons?i=ubuntu" height="40" alt="Ubuntu" />
   <img src="https://skillicons.dev/icons?i=mint" height="40" alt="Mint" />
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux" />
   <img src="https://skillicons.dev/icons?i=windows" height="40" alt="Windows" />
 
-</div>
-
 ### **Others**
-
-<div align="center">
 
   <img src="https://skillicons.dev/icons?i=ps" height="40" alt="Photoshop" />
   <img src="https://skillicons.dev/icons?i=ai" height="40" alt="Illustrator" />
    <img src="https://skillicons.dev/icons?i=pr" height="40" alt="Premiere Pro" />
   <img src="https://skillicons.dev/icons?i=notion" height="40" alt="Notion" />
   <img src="https://skillicons.dev/icons?i=obsidian" height="40" alt="Obsidian" />
-
-</div>
 
 ---
 
@@ -137,12 +118,10 @@
      <a href="https://twitter.com/fardinnuman" target="blank"><img src="https://skillicons.dev/icons?i=twitter" height="30" width="40" alt="Twitter" /></a>
      </a>
 
-
-
 ---
 
 ## 💻 Coding Profiles
-<div align="center">
+
 <a href="https://codeforces.com/profile/fardinnuman" target="_blank"> <img
       src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" /> </a>
 <a
@@ -153,7 +132,6 @@
       <a href="https://www.codechef.com/users/fardinnuman" target="_blank"> <img
       src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" />
   </a>
-</div>
 
 ---
 
@@ -161,6 +139,8 @@
   
 ![snake gif](https://github.com/fardinnuman/fardinnuman/blob/output/github-snake-dark.svg)
 
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=gradient&text=THANK%20YOU!&reversal=false&section=footer&fontSize=48&animation=twinkling&fontAlignY=80">
 
 </div>
 
