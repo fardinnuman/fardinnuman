@@ -6,7 +6,7 @@
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=29&duration=2500&pause=1000&color=009dc5&center=true&vCenter=true&width=435&lines=%20%3E.%3C%20Hiiiiiiii%20%3E.%3C%20;I%20AM%20FARDIN%20NUMAN;CSE%20STUDENT%20AT%20RUET;PASSIONATE%20CODER;PROBLEM%20SOLVER"
     alt="Typing SVG" />
 
-![Alt text](https://github.com/fardinnuman/fardinnuman/blob/main/cover.png)
+![Alt text](https://github.com/fardinnuman/fardinnuman/blob/main/banner.png)
     
 </div>
 
@@ -61,7 +61,7 @@
  <img height="170em"
     src="https://github-readme-streak-stats.herokuapp.com/?user=fardinnuman&theme=radical&hide_border=true&background=0D1117&stroke=5D3FD3" />
 
-  <img width="42%" alt="fardinnuman :: Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fardinnuman&langs_count=10&theme=radical&bg_color=0D1120&title_color=5D3FD3&layout=compact&hide_border=true"/>
+  <img width="50%" alt="fardinnuman :: Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fardinnuman&langs_count=10&theme=radical&bg_color=0D1120&title_color=5D3FD3&layout=compact&hide_border=true"/>
 
 ## 💻 Tech Stack
 
@@ -139,9 +139,6 @@
   
 ![snake gif](https://github.com/fardinnuman/fardinnuman/blob/output/github-snake-dark.svg)
 
-![Alt text](https://github.com/fardinnuman/fardinnuman/blob/main/banner.png)
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=gradient&text=THANK%20YOU!&reversal=false&section=footer&fontSize=45&animation=twinkling&fontAlignY=80">
 
 </div>
-
