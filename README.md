@@ -59,8 +59,6 @@
 <br>
   <img height="237em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fardinnuman&langs_count=10&theme=radical&bg_color=0D1117&title_color=5D3FD3&layout=compact&hide_border=true"/>
 
-  <img height="237em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fardinnuman&langs_count=10&theme=radical&bg_color=0D1117&title_color=5D3FD3&layout=compact&hide_border=true&count_private=true&token=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&cache_seconds=0"/>
-
 <!--0D1120-->
 
 ## 💻 Tech Stack
