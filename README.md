@@ -108,7 +108,7 @@
 <a href="https://wa.me/8801406369675" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" height="30" width="40"/></a>
 <a href="https://linkedin.com/in/fardinnuman" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" height="30" width="40" alt="LinkedIn"/></a>
 <a href="https://twitter.com/fardinnuman" target="blank"><img src="https://skillicons.dev/icons?i=twitter" height="30" width="40" alt="Twitter"/></a></a>
-<a href="https://discord.com/users/fardinnuman" target="blank"><img src="https://skillicons.dev/icons?i=telegram" height="30" width="40" alt="Discord"/></a></a>
+<a href="https://discord.com/users/fardinnuman" target="blank"><img src="https://skillicons.dev/icons?i=discord" height="30" width="40" alt="Discord"/></a></a>
 
 ---
 
@@ -127,7 +127,7 @@
 
 ---
 
-## 🐍 Watch my contributions get eaten by my classmates! :)
+## 🐍 Watch my contributions get eaten by my classmates! :D
   
 ![snake gif](https://github.com/fardinnuman/fardinnuman/blob/output/github-snake-dark.svg)
 
