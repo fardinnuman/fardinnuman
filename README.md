@@ -58,12 +58,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fardinnuman&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=5D3FD3&icon_color=5D3FD3"/>
 <br>
   <img height="237em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fardinnuman&langs_count=10&theme=radical&bg_color=0D1117&title_color=5D3FD3&layout=compact&hide_border=true"/>
-  <br>
-   <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=fardinnuman&theme=radical&hide_border=true&background=0D1120&stroke=5D3FD3&title_color=5D3FD3&icon_color=5D3FD3" />
-<br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fardinnuman&show_icons=true&theme=radical&hide_border=true&bg_color=0D1120&title_color=5D3FD3&icon_color=5D3FD3"/>
-<br>
-  <img height="237em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fardinnuman&langs_count=10&theme=radical&bg_color=0D1120&title_color=5D3FD3&layout=compact&hide_border=true"/>
+
+<!--0D1120-->
 
 ## 💻 Tech Stack
 
