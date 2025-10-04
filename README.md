@@ -6,7 +6,7 @@
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=29&duration=2500&pause=1000&color=009dc5&center=true&vCenter=true&width=435&lines=%20%3E.%3C%20Hiiiiiiii%20%3E.%3C%20;I%20AM%20FARDIN%20NUMAN;CSE%20STUDENT%20AT%20RUET;PASSIONATE%20CODER;PROBLEM%20SOLVER"
     alt="Typing SVG" />
 
-![Alt text](https://github.com/fardinnuman/fardinnuman/blob/main/banner.png)
+![Alt text](https://github.com/fardinnuman/fardinnuman/blob/main/cover.png)
     
 </div>
 
@@ -138,6 +138,8 @@
 ## 🐍 Watch my contributions get eaten by my classmates! :)
   
 ![snake gif](https://github.com/fardinnuman/fardinnuman/blob/output/github-snake-dark.svg)
+
+![Alt text](https://github.com/fardinnuman/fardinnuman/blob/main/banner.png)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=gradient&text=THANK%20YOU!&reversal=false&section=footer&fontSize=45&animation=twinkling&fontAlignY=80">
 
