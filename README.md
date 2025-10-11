@@ -135,9 +135,10 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=gradient&text=THANK%20YOU!&reversal=false&section=footer&fontSize=45&animation=twinkling&fontAlignY=80">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fardinnuman/fardinnuman-pacman/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fardinnuman/fardinnuman-pacman/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/fardinnuman/fardinnuman-pacman/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fardinnuman/fardinnuman/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fardinnuman/fardinnuman/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/fardinnuman/fardinnuman/pacman-output/pacman-contribution-graph.svg">
 </picture>
+
 
 </div>
