@@ -44,8 +44,6 @@
 
 ## 📈 Monthly Contribution Stats
 
-<!--
-
 <a href="https://github.com/fardinnuman">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=fardinnuman&theme=react-dark&radius=8&area=true&hide_border=true"/>
@@ -54,7 +52,7 @@
 </picture>
 </a>
 
--->
+<!--
 
 <a href="https://github.com/fardinnuman">
 <picture>
@@ -63,6 +61,8 @@
   <img alt="activity-graph" src="activity-graph.svg"/>
 </picture>
 </a>
+
+-->
 
 ## 📈 GitHub Stats
 
