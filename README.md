@@ -132,7 +132,7 @@
   
 ![snake gif](https://github.com/fardinnuman/fardinnuman/blob/output/github-snake-dark.svg)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=gradient&text=THANK%20YOU!&reversal=false&section=footer&fontSize=45&animation=twinkling&fontAlignY=80">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=gradient&text=Are%20you%20stalking%20me,%20mate?&reversal=false&section=footer&fontSize=42&animation=twinkling&fontAlignY=80">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fardinnuman/fardinnuman/pacman-output/pacman-contribution-graph-dark.svg">
