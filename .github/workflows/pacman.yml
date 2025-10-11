@@ -20,7 +20,7 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          gameSpeed: 3           # 1 = fastest, 10 = slowest
+          gameSpeed: 1           # 1 = fastest, 10 = slowest
           playerStyle: aggressive
           gameTheme: github-dark
 
