@@ -18,7 +18,7 @@
   
   [![Github](https://img.shields.io/github/followers/fardinnuman?label=Follow&style=social)](https://github.com/fardinnuman)&nbsp;
 
-
+  <img src="https://github-profile-trophy.vercel.app/?username=fardinnuman&theme=algolia&row=1&margin-w=15" alt="Trophies">
 
 </div>
 
@@ -120,8 +120,8 @@
 <a href="https://instagram.com/fardinnuman" target="blank"><img src="https://skillicons.dev/icons?i=instagram" height="30" width="40" alt="Instagram"/></a>
 <a href="https://wa.me/8801406369675" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" height="30" width="40"/></a>
 <a href="https://linkedin.com/in/fardinnuman" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" height="30" width="40" alt="LinkedIn"/></a>
-<a href="https://twitter.com/fardinnuman" target="blank"><img src="https://skillicons.dev/icons?i=twitter" height="30" width="40" alt="Twitter"/></a></a>
-<a href="https://discord.com/users/fardinnuman" target="blank"><img src="https://skillicons.dev/icons?i=discord" height="30" width="40" alt="Discord"/></a></a>
+<a href="https://twitter.com/fardinnuman" target="blank"><img src="https://skillicons.dev/icons?i=twitter" height="30" width="40" alt="Twitter"/></a>
+<a href="https://discord.com/users/fardinnuman" target="blank"><img src="https://skillicons.dev/icons?i=discord" height="30" width="40" alt="Discord"/></a>
 
 ---
 
