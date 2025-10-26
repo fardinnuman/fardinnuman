@@ -1,3 +1,5 @@
+
+
 <div align="center">
 
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="60"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width='80'/><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="60">
@@ -146,13 +148,12 @@
 
 ---
 
-<!--
+
 
 ## 🐍 Watch my contributions get eaten by my classmates! :D
   
 ![snake gif](https://github.com/fardinnuman/fardinnuman/blob/output/github-snake-dark.svg)
 
--->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fardinnuman/fardinnuman/pacman-output/pacman-contribution-graph-dark.svg">
@@ -160,9 +161,9 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/fardinnuman/fardinnuman/pacman-output/pacman-contribution-graph.svg">
 </picture>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=gradient&text=Are%20you%20stalking%20me,%20mate?%20&reversal=false&section=footer&fontSize=42&animation=twinkling&fontAlignY=80">
+![](https://raw.githubusercontent.com/fardinnuman/fardinnuman/profile-3d-output/profile-night-view.svg)
 
-![](https://raw.githubusercontent.com/fardinnuman/fardinnuman/profile-3d-output/profile-green-animate.svg)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=gradient&text=Are%20you%20stalking%20me,%20mate?%20&reversal=false&section=footer&fontSize=42&animation=twinkling&fontAlignY=80">
 
 </div>
 
