@@ -30,7 +30,7 @@
 
 </div>
 
-- 🎓 1st Year **Computer Science and Engineering** student at **Rajshahi University of Engineering & Technology-RUET**
+- 🎓 1st Year **CSE** student at **RUET**
 - 💻 Currently learning **C, C++** and exploring **Python & Linux**
 - 🌱 Focused on **DSA**, **OOP** and **Web Development**
 - 🎯 Career Interests : **AI/ML**, **Cybersecurity** and **Software Engineering**
