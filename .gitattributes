@@ -1,4 +1,3 @@
-# Tell GitHub which files are which language
 *.c linguist-language=C
 *.cpp linguist-language=C++
 *.py linguist-language=Python
@@ -6,7 +5,6 @@
 *.html linguist-language=HTML
 *.css linguist-language=CSS
 
-# Ignore big media files so they don't hide code
 *.png linguist-documentation
 *.jpg linguist-documentation
 *.gif linguist-documentation
