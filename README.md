@@ -39,8 +39,13 @@
 
 ---
 
-
 <div align="center">
+
+## 🎓 Academic Repositories
+[![CampusOS](https://github-readme-stats.vercel.app/api/pin/?username=fardinnuman&repo=CampusOS&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=5D3FD3&icon_color=5D3FD3)](https://github.com/fardinnuman/CampusOS)
+[![automated-scratch-card](https://github-readme-stats.vercel.app/api/pin/?username=fardinnuman&repo=automated-scratch-card&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=5D3FD3&icon_color=5D3FD3)](https://github.com/fardinnuman/automated-scratch-card)
+
+---
 
 ## 📈 Monthly Contribution Stats
 
@@ -66,13 +71,15 @@
 
 ## 📈 GitHub Stats
 
+<!--0D1120-->
+
 <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=fardinnuman&theme=radical&hide_border=true&background=0D1117&stroke=5D3FD3" />
 <br>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fardinnuman&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=5D3FD3&icon_color=5D3FD3"/>
 <br>
 <img height="237em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fardinnuman&langs_count=15&layout=compact&hide_border=true&theme=radical&bg_color=0D1117&title_color=5D3FD3&" alt="fardinnuman"/>
 
-<!--0D1120-->
+---
 
 ## 💻 Tech Stack
 
