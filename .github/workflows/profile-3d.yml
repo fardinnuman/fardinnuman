@@ -1,0 +1,34 @@
+name: generate 3D profile contribution
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # daily at midnight UTC
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v5
+
+      - name: Generate 3D profile contribution
+        uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Push 3D profile SVGs
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: profile-3d-output
+          build_dir: profile-3d-contrib
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
