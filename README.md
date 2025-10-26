@@ -17,8 +17,10 @@
  <img src="https://komarev.com/ghpvc/?username=fardinnuman&label=Profile%20views&color=0e75b6&style=flat"
     alt="fardinnuman"/> 
    [![Github](https://img.shields.io/github/followers/fardinnuman?label=Follow&style=social)](https://github.com/fardinnuman)&nbsp; ![vibe check](https://github.com/mattrltrent/random_assets/actions/workflows/unit_tests.yml/badge.svg)
-   
-  <img src="https://github-profile-trophy.vercel.app/?username=fardinnuman&theme=algolia&row=1&margin-w=15" alt="Trophies">
+
+<!--  
+<img src="https://github-profile-trophy.vercel.app/?username=fardinnuman&theme=algolia&row=1&margin-w=15" alt="Trophies">
+-->
 
 </div>
 
@@ -162,6 +164,6 @@
 ![](https://raw.githubusercontent.com/fardinnuman/fardinnuman/profile-3d-output/profile-night-green.svg)
 -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=gradient&text=Are%20you%20stalking%20me,%20mate?%20&reversal=false&section=footer&fontSize=42&animation=twinkling&fontAlignY=80">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=gradient&text=HELLO%20STALKER!%20&reversal=false&section=footer&fontSize=42&animation=twinkling&fontAlignY=80">
 
 </div>
