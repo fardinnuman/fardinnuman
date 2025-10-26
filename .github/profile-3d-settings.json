@@ -1,7 +1,7 @@
 {
-  "backgroundColor": "#ffffff",   // your dark background
-  "accentColor": "#5D3FD3",       // the 3D blocks / main contribution color
-  "gridColor": "#1f2937",         // the subtle grid behind blocks
-  "strokeColor": "#ffffff",       // optional, outline of blocks to make them pop
-  "animate": true                  // keep animation
+  "backgroundColor": "#ffffff",  
+  "accentColor": "#5D3FD3",      
+  "gridColor": "#1f2937",     
+  "strokeColor": "#ffffff",     
+  "animate": true                  
 }
