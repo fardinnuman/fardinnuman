@@ -13,11 +13,11 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=fardinnuman&label=Profile%20views&color=0e75b6&style=flat"
-    alt="fardinnuman"/> 
   
-  [![Github](https://img.shields.io/github/followers/fardinnuman?label=Follow&style=social)](https://github.com/fardinnuman)&nbsp;
-
+ <img src="https://komarev.com/ghpvc/?username=fardinnuman&label=Profile%20views&color=0e75b6&style=flat"
+    alt="fardinnuman"/> 
+   [![Github](https://img.shields.io/github/followers/fardinnuman?label=Follow&style=social)](https://github.com/fardinnuman)&nbsp; ![vibe check](https://github.com/mattrltrent/random_assets/actions/workflows/unit_tests.yml/badge.svg)
+   
   <img src="https://github-profile-trophy.vercel.app/?username=fardinnuman&theme=algolia&row=1&margin-w=15" alt="Trophies">
 
 </div>
