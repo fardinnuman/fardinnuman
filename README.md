@@ -161,9 +161,11 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/fardinnuman/fardinnuman/pacman-output/pacman-contribution-graph.svg">
 </picture>
 
-![](https://raw.githubusercontent.com/fardinnuman/fardinnuman/profile-3d-output/profile-night-view.svg)
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=gradient&text=Are%20you%20stalking%20me,%20mate?%20&reversal=false&section=footer&fontSize=42&animation=twinkling&fontAlignY=80">
+
+![](https://raw.githubusercontent.com/fardinnuman/fardinnuman/profile-3d-output/profile-night-view.svg)
 
 </div>
 
