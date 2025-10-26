@@ -1,6 +1,6 @@
 {
-  "backgroundColor": "#0D1117",   // same as bg_color
-  "accentColor": "#5D3FD3",       // same as title_color / purple-blue tone
-  "gridColor": "#1f2937",         // optional, keep subtle
-  "animate": true                  // true for animated, false for static
+  "backgroundColor": "#0D1117",
+  "accentColor": "#5D3FD3",
+  "gridColor": "#1f2937",
+  "animate": true
 }
