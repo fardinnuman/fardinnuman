@@ -2,9 +2,10 @@
 
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="60"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width='80'/><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="60">
 
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=29&duration=2500&pause=1000&color=009dc5&center=true&vCenter=true&width=435&lines=%20%3E.%3C%20Hiiiiiiii%20%3E.%3C%20;I%20AM%20FARDIN%20NUMAN;CSE%20STUDENT%20AT%20RUET;PASSIONATE%20CODER;PROBLEM%20SOLVER"
-    alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=29&duration=2500&pause=1000&color=009dc5&center=true&vCenter=true&width=435&lines=%20%3E.%3C%20Hiiiiiiii%20%3E.%3C%20;I%20AM%20FARDIN%20NUMAN;CSE%20STUDENT%20AT%20RUET;PASSIONATE%20CODER;PROBLEM%20SOLVER" alt="Typing SVG" />
+
+⚡️ Portfolio : [**fardinnuman.me**](https://fardinnuman.me) <br>
+📬 Reach me at : **fardinnuman@gmail.com**
 
 ![Alt text](https://github.com/fardinnuman/fardinnuman/blob/main/banner.png)
     
@@ -32,12 +33,10 @@
 
 </div>
 
-- 🎓 1st Year **CSE** student at **RUET**
-- 💻 Currently learning **C, C++** and exploring **Python & Linux**
-- 🌱 Focused on **DSA**, **OOP** and **Web Development**
-- 🎯 Career Interests : **AI/ML**, **Cybersecurity** and **Software Engineering**
-- 💼 Portfolio : [**fardinnuman.me**](https://fardinnuman.me)
-- ✉️ Reach me at : **fardinnuman@gmail.com**
+🎓 1st Year **CSE** student at **RUET** <br>
+💻 Currently learning **C, C++** and exploring **Python & Linux** <br>
+🌱 Focused on **DSA**, **OOP** and **Web Development** <br>
+🎯 Career Interests : **AI/ML**, **Cybersecurity** and **Software Engineering**
 
 ---
 
@@ -76,6 +75,7 @@
 
 <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=fardinnuman&theme=radical&hide_border=true&background=0D1117&stroke=5D3FD3" />
 <br>
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fardinnuman&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=5D3FD3&icon_color=5D3FD3"/>
 <br>
 <img height="237em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fardinnuman&langs_count=14&layout=compact&hide_border=true&theme=radical&bg_color=0D1117&title_color=5D3FD3&" alt="fardinnuman"/>
