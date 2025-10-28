@@ -15,7 +15,7 @@
 
 <div align="center">
   
- <img src="https://komarev.com/ghpvc/?username=fardinnuman&label=Profile%20views&color=0e75b6&style=flat"
+  <img src="https://komarev.com/ghpvc/?username=fardinnuman&label=Profile%20views&color=0e75b6&style=flat"
     alt="fardinnuman"/> 
    [![Github](https://img.shields.io/github/followers/fardinnuman?label=Follow&style=social)](https://github.com/fardinnuman)&nbsp; ![vibe check](https://github.com/mattrltrent/random_assets/actions/workflows/unit_tests.yml/badge.svg)
 
@@ -119,37 +119,32 @@
 
 ### **Others**
 
-  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="Photoshop" />
-  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="Illustrator" />
-   <img src="https://skillicons.dev/icons?i=pr" height="40" alt="Premiere Pro" />
-  <img src="https://skillicons.dev/icons?i=notion" height="40" alt="Notion" />
-  <img src="https://skillicons.dev/icons?i=obsidian" height="40" alt="Obsidian" />
+  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="Photoshop"/>
+  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="Illustrator"/>
+   <img src="https://skillicons.dev/icons?i=pr" height="40" alt="Premiere Pro"/>
+  <img src="https://skillicons.dev/icons?i=notion" height="40" alt="Notion"/>
+  <img src="https://skillicons.dev/icons?i=obsidian" height="40" alt="Obsidian"/>
 
 ---
 
 ## 🌎 Wanna Connect?
 
-<a href="https://facebook.com/i.fardinnuman" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40"/></a>
-<a href="https://instagram.com/fardinnuman" target="blank"><img src="https://skillicons.dev/icons?i=instagram" height="30" width="40" alt="Instagram"/></a>
-<a href="https://wa.me/8801406369675" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" height="30" width="40"/></a>
-<a href="https://linkedin.com/in/fardinnuman" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" height="30" width="40" alt="LinkedIn"/></a>
-<a href="https://twitter.com/fardinnuman" target="blank"><img src="https://skillicons.dev/icons?i=twitter" height="30" width="40" alt="Twitter"/></a>
-<a href="https://discord.com/users/fardinnuman" target="blank"><img src="https://skillicons.dev/icons?i=discord" height="30" width="40" alt="Discord"/></a>
+  <a href="https://facebook.com/i.fardinnuman" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40"/></a>
+  <a href="https://instagram.com/fardinnuman" target="blank"><img src="https://skillicons.dev/icons?i=instagram" height="30" width="40" alt="Instagram"/></a>
+  <a href="https://wa.me/8801406369675" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" height="30" width="40"/></a>
+  <a href="https://linkedin.com/in/fardinnuman" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" height="30" width="40" alt="LinkedIn"/></a>
+  <a href="https://twitter.com/fardinnuman" target="blank"><img src="https://skillicons.dev/icons?i=twitter" height="30" width="40" alt="Twitter"/></a>
+  <a href="https://discord.com/users/fardinnuman" target="blank"><img src="https://skillicons.dev/icons?i=discord" height="30" width="40" alt="Discord"/></a>
 
 ---
 
 ## 💻 Coding Profiles
 
-<a href="https://codeforces.com/profile/fardinnuman" target="_blank"> <img
-      src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" /> </a>
-<a
-    href="https://www.hackerrank.com/profile/fardinnuman" target="_blank"> <img
-      src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /> </a>
-<a href="https://www.leetcode.com/u/fardinnuman" target="_blank"> <img
-      src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /> </a>
-<a href="https://www.codechef.com/users/fardinnuman" target="_blank"> <img
-      src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" />
-</a>
+  <a href="https://codeforces.com/profile/fardinnuman" target="_blank"> <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/></a>
+  <a href="https://www.hackerrank.com/profile/fardinnuman" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
+
+  <a href="https://www.leetcode.com/u/fardinnuman" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
+  <a href="https://www.codechef.com/users/fardinnuman" target="_blank"><img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white"/></a>
 
 ---
 
@@ -169,6 +164,6 @@
 ![](https://raw.githubusercontent.com/fardinnuman/fardinnuman/profile-3d-output/profile-night-green.svg)
 -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=gradient&text=HELLO%20STALKER!%20&reversal=false&section=footer&fontSize=42&animation=twinkling&fontAlignY=80">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=gradient&text=HELLO%20STALKER!%20&reversal=false&section=footer&fontSize=42&animation=twinkling&fontAlignY=80">
 
 </div>
