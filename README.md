@@ -8,7 +8,7 @@
 📬 Reach me at : **fardinnuman@gmail.com**
 
 ![Alt text](https://github.com/fardinnuman/fardinnuman/blob/main/banner.png)
-    
+
 </div>
 
 ---
@@ -19,7 +19,7 @@
     alt="fardinnuman"/> 
    [![Github](https://img.shields.io/github/followers/fardinnuman?label=Follow&style=social)](https://github.com/fardinnuman)&nbsp; ![vibe check](https://github.com/mattrltrent/random_assets/actions/workflows/unit_tests.yml/badge.svg)
 
-<!--  
+<!--
 <img src="https://github-profile-trophy.vercel.app/?username=fardinnuman&theme=algolia&row=1&margin-w=15" alt="Trophies">
 -->
 
@@ -29,13 +29,16 @@
 
 <div align="center">
 
-## 🧠 Who Am I?
+## 🧠 Who am I?
 
 </div>
 
-🎓 1st Year **CSE** student at **RUET** <br>
-💻 Currently learning **C, C++** and exploring **Python & Linux** <br>
-🌱 Focused on **DSA**, **OOP** and **Web Development** <br>
+🎓 1st Year **CSE** student at **RUET**
+
+💻 Currently learning **C++** and **Python**, and exploring **Linux**
+
+🌱 Focused on **DSA**, **OOP** and **Web Development**
+
 🎯 Career Interests : **AI/ML**, **Cybersecurity** and **Software Engineering**
 
 ---
@@ -43,8 +46,10 @@
 <div align="center">
 
 ## 🎓 Academic Repositories
+
 [![automated-scratch-card](https://github-readme-stats.vercel.app/api/pin/?username=fardinnuman&repo=automated-scratch-card&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=5D3FD3&icon_color=5D3FD3)](https://github.com/fardinnuman/automated-scratch-card)
 [![CampusOS](https://github-readme-stats.vercel.app/api/pin/?username=fardinnuman&repo=CampusOS&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=5D3FD3&icon_color=5D3FD3)](https://github.com/fardinnuman/CampusOS)
+
 ---
 
 ## 📈 Monthly Contribution Stats
@@ -140,17 +145,17 @@
 <a
     href="https://www.hackerrank.com/profile/fardinnuman" target="_blank"> <img
       src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /> </a>
-      <a href="https://www.leetcode.com/u/fardinnuman" target="_blank"> <img
+<a href="https://www.leetcode.com/u/fardinnuman" target="_blank"> <img
       src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /> </a>
-      <a href="https://www.codechef.com/users/fardinnuman" target="_blank"> <img
+<a href="https://www.codechef.com/users/fardinnuman" target="_blank"> <img
       src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" />
-  </a>
+</a>
 
 ---
 
 <!--
 ## 🐍 Watch my contributions get eaten by my classmates! :D
-  
+
 ![snake gif](https://github.com/fardinnuman/fardinnuman/blob/output/github-snake-dark.svg)
 -->
 
