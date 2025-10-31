@@ -78,7 +78,7 @@
 
 <!--0D1120-->
 
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=fardinnuman&theme=radical&hide_border=true&background=0D1117&stroke=5D3FD3" />
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=fardinnuman&theme=radical&hide_border=true&background=0D1117&stroke=5D3FD3"/>
 <br>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fardinnuman&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=5D3FD3&icon_color=5D3FD3"/>
@@ -164,6 +164,6 @@
 ![](https://raw.githubusercontent.com/fardinnuman/fardinnuman/profile-3d-output/profile-night-green.svg)
 -->
 
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=gradient&text=HELLO%20STALKER!%20&reversal=false&section=footer&fontSize=42&animation=twinkling&fontAlignY=80">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=gradient&text=HELLO%20WORLD!%20%EF%BC%9C/%EF%BC%9E&reversal=false&section=footer&fontSize=42&animation=twinkling&fontAlignY=80">
 
 </div>
