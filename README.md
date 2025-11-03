@@ -131,12 +131,21 @@
 
 ## 🌎 Wanna Connect?
 
+<a href="https://facebook.com/i.fardinnuman" target="blank"><img src="http://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white"></a>
+<a href="https://instagram.com/fardinnuman" target="blank"><img src="http://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white"></a>
+<a href="https://wa.me/8801406369675" target="blank"><img src="http://img.shields.io/badge/-WhatsApp-43D854?style=flat&logo=whatsapp&logoColor=white"></a>
+<a href="https://linkedin.com/in/fardinnuman" target="blank"><img src="http://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=in-linked&logoColor=white"></a>
+<a href="https://twitter.com/fardinnuman" target="blank"><img src="http://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=white"></a>
+<a href="https://discord.com/users/fardinnuman" target="blank"><img src="http://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white"></a>
+
+<!--
 <a href="https://facebook.com/i.fardinnuman" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40"/></a>
 <a href="https://instagram.com/fardinnuman" target="blank"><img src="https://skillicons.dev/icons?i=instagram" height="30" width="40" alt="Instagram"/></a>
 <a href="https://wa.me/8801406369675" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" height="30" width="40"/></a>
 <a href="https://linkedin.com/in/fardinnuman" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" height="30" width="40" alt="LinkedIn"/></a>
 <a href="https://twitter.com/fardinnuman" target="blank"><img src="https://skillicons.dev/icons?i=twitter" height="30" width="40" alt="Twitter"/></a>
 <a href="https://discord.com/users/fardinnuman" target="blank"><img src="https://skillicons.dev/icons?i=discord" height="30" width="40" alt="Discord"/></a>
+-->
 
 ---
 
@@ -194,11 +203,6 @@
 <img src="http://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white">
 <img src="http://img.shields.io/badge/-Mint-77A464?style=flat&logo=linux-mint&logoColor=white">
 <img src="http://img.shields.io/badge/-Linux-F4BC00?style=flat&logo=linux&logoColor=white">
-<img src="http://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white">
-<img src="http://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white">
-<img src="http://img.shields.io/badge/-WhatsApp-43D854?style=flat&logo=whatsapp&logoColor=white">
-<img src="http://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white">
-<img src="http://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white">
 -->
 
 </div>
