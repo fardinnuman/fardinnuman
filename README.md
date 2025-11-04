@@ -7,7 +7,7 @@
 ⚡️ Portfolio : [**fardinnuman.me**](https://fardinnuman.me) <br>
 📬 Reach me at : **fardinnuman@gmail.com**
 
-![Alt text](https://github.com/fardinnuman/fardinnuman/blob/main/banner.png)
+![Alt text](https://github.com/fardinnuman/fardinnuman/blob/main/assets/banner.png)
 
 </div>
 
