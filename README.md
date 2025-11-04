@@ -19,6 +19,8 @@
     alt="fardinnuman"/> 
    [![Github](https://img.shields.io/github/followers/fardinnuman?label=Follow&style=social)](https://github.com/fardinnuman)&nbsp; ![vibe check](https://github.com/mattrltrent/random_assets/actions/workflows/unit_tests.yml/badge.svg)
 
+<img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif" width="100px" height="100px">
+
 <img src="https://github-profile-trophy.vercel.app/?username=fardinnuman&theme=algolia&row=1&margin-w=15" alt="Trophies">
 
 </div>
