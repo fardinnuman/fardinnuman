@@ -84,7 +84,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fardinnuman&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=5D3FD3&icon_color=5D3FD3"/>
 <br>
 
-<img height="237em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fardinnuman&langs_count=14&layout=compact&hide_border=true&theme=radical&bg_color=0D1117&title_color=5D3FD3&" alt="fardinnuman"/>
+<img height="237em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fardinnuman&langs_count=15&layout=compact&hide_border=true&theme=radical&bg_color=0D1117&title_color=5D3FD3&" alt="fardinnuman"/>
 
 ---
 
