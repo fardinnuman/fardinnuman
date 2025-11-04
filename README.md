@@ -25,7 +25,9 @@
 
 ---
 
-<div align="center">
+<a href="https://fardinnuman.me/"><img src="https://github.com/fardinnuman/fardinnuman/blob/main/assets/snake.png" align="right" height="200"/></a>
+
+<div align="left">
 
 ## 🧠 Who am I?
 
@@ -156,6 +158,8 @@
 <a href="https://www.leetcode.com/u/fardinnuman" target="_blank"><img src="http://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white"></a>
 <a href="https://www.codechef.com/users/fardinnuman" target="_blank"><img src="http://img.shields.io/badge/-CodeChef-5B4638?style=flat&logo=codechef&logoColor=white"></a>
 
+---
+
 <!--
 <a href="https://codeforces.com/profile/fardinnuman" target="_blank"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/></a>
 <a href="https://www.hackerrank.com/profile/fardinnuman" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
@@ -163,8 +167,6 @@
 <a href="https://www.leetcode.com/u/fardinnuman" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
 <a href="https://www.codechef.com/users/fardinnuman" target="_blank"><img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white"/></a>
 -->
-
----
 
 <!--
 ## 🐍 Watch my contributions get eaten by my classmates! :D
