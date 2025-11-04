@@ -76,6 +76,10 @@
 
 -->
 
+<img height="267em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fardinnuman&theme=github_dark"/>
+
+
+
 ## 📈 GitHub Stats
 
 <!--0D1120 -->
