@@ -102,6 +102,7 @@
 <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++"/>
 <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript"/>
 <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python"/>
+<img src="https://skillicons.dev/icons?i=java" height="40" alt="Java"/>
   
 ### **Web Development**
 
