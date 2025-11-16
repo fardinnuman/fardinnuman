@@ -49,8 +49,7 @@
 
 ## 🎓 Academic Repositories
 
-[![automated-scratch-card](https://github-readme-stats.vercel.app/api/pin/?username=fardinnuman&repo=automated-scratch-card&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=5D3FD3&icon_color=5D3FD3)](https://github.com/fardinnuman/automated-scratch-card)
-[![CampusOS](https://github-readme-stats.vercel.app/api/pin/?username=fardinnuman&repo=CampusOS&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=5D3FD3&icon_color=5D3FD3)](https://github.com/fardinnuman/CampusOS)
+[![automated-scratch-card](https://github-readme-stats.vercel.app/api/pin/?username=fardinnuman&repo=automated-scratch-card&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=5D3FD3&icon_color=5D3FD3)](https://github.com/fardinnuman/automated-scratch-card)[![CampusOS](https://github-readme-stats.vercel.app/api/pin/?username=fardinnuman&repo=CampusOS&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=5D3FD3&icon_color=5D3FD3)](https://github.com/fardinnuman/CampusOS)
 
 ---
 
