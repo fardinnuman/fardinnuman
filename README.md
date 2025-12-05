@@ -229,5 +229,4 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=gradient&text=HELLO%20WORLD!%20%EF%BC%9C/%EF%BC%9E&reversal=false&section=footer&fontSize=42&animation=twinkling&fontAlignY=80">
 
 <img src="https://github.com/fardinnuman/fardinnuman/blob/main/assets/laptop.png" align="center" height="200"/>
-
 </div>
