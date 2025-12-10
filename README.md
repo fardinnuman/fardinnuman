@@ -74,7 +74,7 @@
 </picture>
 </a>
 -->
-
+<!--
 <img height="267em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fardinnuman&theme=github_dark"/>
 
 
@@ -82,7 +82,7 @@
 ## 📈 GitHub Stats
 
 <!--0D1120 -->
-
+<!--
 <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=fardinnuman&theme=radical&hide_border=true&background=0D1117&stroke=5D3FD3"/>
 <br>
 
@@ -110,7 +110,7 @@
 <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python"/>
 <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java"/>
 -->
-
+<!--
 ### **Web Development**
 
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
@@ -122,7 +122,7 @@
 <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS"/>
 <img src="https://skillicons.dev/icons?i=react" height="40" alt="React"/>
 -->
-
+<!--
 ### **Tools & Platforms**
 
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
@@ -144,7 +144,7 @@
 <img src="https://skillicons.dev/icons?i=atom" height="40" alt="Atom"/>
 <img src="https://skillicons.dev/icons?i=sublime" height="40" alt="Sublime"/>
 -->
-
+<!--
 ### **Operating Systems**
 
 <img src="http://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white">
@@ -158,7 +158,7 @@
 <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux"/>
 <img src="https://skillicons.dev/icons?i=windows" height="40" alt="Windows"/>
 -->
-
+<!--
 ### **Others**
 
 <img src="https://img.shields.io/badge/-Photoshop-31a8ff?style=flat&logo=adobe-photoshop&logoColor=white">
@@ -175,7 +175,7 @@
 <img src="https://skillicons.dev/icons?i=notion" height="40" alt="Notion"/>
 <img src="https://skillicons.dev/icons?i=obsidian" height="40" alt="Obsidian"/>
 -->
-
+<!--
 ## 🌎 Wanna Connect?
 
 <a href="https://facebook.com/i.fardinnuman" target="blank"><img src="http://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white"></a>
@@ -193,7 +193,7 @@
 <a href="https://twitter.com/fardinnuman" target="blank"><img src="https://skillicons.dev/icons?i=twitter" height="30" width="40" alt="Twitter"/></a>
 <a href="https://discord.com/users/fardinnuman" target="blank"><img src="https://skillicons.dev/icons?i=discord" height="30" width="40" alt="Discord"/></a>
 -->
-
+<!--
 ---
 
 ## 💻 Coding Profiles
@@ -217,7 +217,7 @@
 
 ![snake gif](https://github.com/fardinnuman/fardinnuman/blob/output/github-snake-dark.svg)
 -->
-
+<!--
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fardinnuman/fardinnuman/pacman-output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fardinnuman/fardinnuman/pacman-output/pacman-contribution-graph.svg">
@@ -227,10 +227,8 @@
 <!--
 ![](https://raw.githubusercontent.com/fardinnuman/fardinnuman/profile-3d-output/profile-night-green.svg)
 -->
-
+<!--
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=gradient&text=HELLO%20WORLD!%20%EF%BC%9C/%EF%BC%9E&reversal=false&section=footer&fontSize=42&animation=twinkling&fontAlignY=80">
 
 <img src="https://github.com/fardinnuman/fardinnuman/blob/main/assets/laptop.png" align="center" height="200"/>
 </div>
-
--->
