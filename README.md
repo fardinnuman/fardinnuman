@@ -1,3 +1,5 @@
+<!--
+
 <div align="center">
 
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="60"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width='80'/><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="60">
@@ -230,3 +232,5 @@
 
 <img src="https://github.com/fardinnuman/fardinnuman/blob/main/assets/laptop.png" align="center" height="200"/>
 </div>
+
+-->
