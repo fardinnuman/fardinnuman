@@ -177,6 +177,7 @@
 
 ## 🌎 Wanna Connect?
 
+<a href="mailto:fardinnuman@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=ffffff"></a>
 <a href="https://facebook.com/i.fardinnuman" target="blank"><img src="http://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white"></a>
 <a href="https://instagram.com/fardinnuman" target="blank"><img src="http://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white"></a>
 <a href="https://wa.me/8801406369675" target="blank"><img src="http://img.shields.io/badge/-WhatsApp-43D854?style=flat&logo=whatsapp&logoColor=white"></a>
