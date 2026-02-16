@@ -133,7 +133,15 @@
 <img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
 <img src="http://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=white">
 <img src="https://img.shields.io/badge/-Atom-3C873A?style=flat&logo=atom&logoColor=white">
-<img src="https://img.shields.io/badge/-Sublime_Text-FF9800?style=flat&logo=sublimetext&logoColor=white">
+<img src="https://img.shields.io/badge/-Sublime_Text-FF9800?style=flat&logo=sublimetext&logoColor=white"><br>
+<img src="https://img.shields.io/badge/Sheets-34A853.svg?logo=google%20sheets&logoColor=white">
+<img src="https://img.shields.io/badge/Docs-4285F4.svg?logo=google%20docs&logoColor=white">
+<img src="https://img.shields.io/badge/Slides-FFA611.svg?logo=google%20slides&logoColor=white">
+<img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white">
+<img alt="OBS Studio" src="https://img.shields.io/badge/-OBS%20Studio-302E31?logo=obs-studio&logoColor=white">
+<img alt="Photopea" src="https://img.shields.io/badge/Photopea-18A497?logo=photopea&logoColor=white">
+<img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white">
 
 <!--
 <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code"/>
