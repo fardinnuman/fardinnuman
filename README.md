@@ -88,7 +88,7 @@
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fardinnuman&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=5D3FD3&icon_color=5D3FD3"/>
 <br>
 
-<img height="172em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fardinnuman&langs_count=10&layout=compact&hide_border=true&theme=radical&bg_color=0D1117&title_color=5D3FD3&" alt="fardinnuman"/>
+<img height="175em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fardinnuman&langs_count=10&layout=compact&hide_border=true&theme=radical&bg_color=0D1117&title_color=5D3FD3&" alt="fardinnuman"/>
 
 ---
 
