@@ -100,10 +100,10 @@
 ### **Programming Languages**
 
 <img src="https://img.shields.io/badge/-C-004482?style=flat&logo=c&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-C++-9C033A?style=flat&logo=c%2B%2B&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-Python-306998?style=flat&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white">
+<img src="https://custom-icon-badges.herokuapp.com/badge/Java-ED8B00.svg?style=flat&logo=java&logoColor=white">
 
 <!--
 <img src="https://skillicons.dev/icons?i=c" height="40" alt="C"/>
