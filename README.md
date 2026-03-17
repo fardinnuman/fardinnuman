@@ -38,13 +38,13 @@
 </div>
 
 🎓 1st Year <a href="https://www.cse.ruet.ac.bd/"><b>CSE</b></a> student at <a href="https://ruet.ac.bd/"><b>Rajshahi University of Engineering & Technology</b></a>
-
-💻 Currently learning **C++** and **Python**, and exploring **Linux**
-
-🌱 Focused on **DSA**, **OOP** and **Web Development**
-
-🎯 Career Interests : **AI/ML**, **Cybersecurity** and **Software Engineering**
-
+<br>
+💻 Skilled in **C**, **C++** and **Java** | Currently learning **Python**
+<br>
+🌱 Focused on **DSA** and **OOPS** | Experienced with **Linux**
+<br>
+🎯 Career Interests : **AI/ML** • **Competitive Programming** • **Software Engineering**
+ 
 ---
 
 <div align="center">
@@ -78,8 +78,6 @@
 
 <!-- <img height="267em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fardinnuman&theme=github_dark"/> -->
 
-
-
 ## 📈 GitHub Stats
 
 <!--0D1120 -->
@@ -91,7 +89,7 @@
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fardinnuman&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=5D3FD3&icon_color=5D3FD3"/>
 <br>
 
-<img height="175em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fardinnuman&langs_count=15&layout=compact&hide_border=true&theme=radical&bg_color=0D1117&title_color=5D3FD3&" alt="fardinnuman"/>
+<img height="175em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fardinnuman&langs_count=14&layout=compact&hide_border=true&theme=radical&bg_color=0D1117&title_color=5D3FD3&" alt="fardinnuman"/>
 
 ---
 
@@ -129,20 +127,27 @@
 
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
+<img src="http://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white">
 <img src="http://img.shields.io/badge/-Netlify-00D1C1?style=flat&logo=netlify&logoColor=white">
 <img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
 <img src="http://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=white">
 <img src="https://img.shields.io/badge/-Atom-3C873A?style=flat&logo=atom&logoColor=white">
-<img src="https://img.shields.io/badge/-Sublime_Text-FF9800?style=flat&logo=sublimetext&logoColor=white"><br>
+<img src="https://img.shields.io/badge/-Sublime_Text-FF9800?style=flat&logo=sublimetext&logoColor=white">
+<br>
 <img src="https://img.shields.io/badge/Sheets-34A853.svg?logo=google%20sheets&logoColor=white">
 <img src="https://img.shields.io/badge/Docs-4285F4.svg?logo=google%20docs&logoColor=white">
 <img src="https://img.shields.io/badge/Slides-FFA611.svg?logo=google%20slides&logoColor=white">
-<img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white">
-<img alt="OBS Studio" src="https://img.shields.io/badge/-OBS%20Studio-302E31?logo=obs-studio&logoColor=white">
-<img alt="Photopea" src="https://img.shields.io/badge/Photopea-18A497?logo=photopea&logoColor=white">
-<img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white">
+<img src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white">
+<img src="https://img.shields.io/badge/-OBS%20Studio-302E31?logo=obs-studio&logoColor=white">
+<img src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white">
+<img src="https://img.shields.io/badge/Photopea-18A497?logo=photopea&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/-Photoshop-31a8ff?style=flat&logo=adobe-photoshop&logoColor=white">
+<img src="https://img.shields.io/badge/-Illustrator-ff9a00?style=flat&logo=adobe-illustrator&logoColor=white">
+<img src="https://img.shields.io/badge/-Premiere%20Pro-00005b?style=flat&logo=adobe-premiere&logoColor=white">
+<img src="http://img.shields.io/badge/-Notion-ffffff?style=flat&logo=notion&logoColor=black">
+<img src="http://img.shields.io/badge/-Obsidian-4e25a2?style=flat&logo=obsidian&logoColor=white">
 
 <!--
 <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code"/>
@@ -153,6 +158,11 @@
 <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="Firebase"/>
 <img src="https://skillicons.dev/icons?i=atom" height="40" alt="Atom"/>
 <img src="https://skillicons.dev/icons?i=sublime" height="40" alt="Sublime"/>
+<img src="https://skillicons.dev/icons?i=ps" height="40" alt="Photoshop"/>
+<img src="https://skillicons.dev/icons?i=ai" height="40" alt="Illustrator"/>
+<img src="https://skillicons.dev/icons?i=pr" height="40" alt="Premiere Pro"/>
+<img src="https://skillicons.dev/icons?i=notion" height="40" alt="Notion"/>
+<img src="https://skillicons.dev/icons?i=obsidian" height="40" alt="Obsidian"/>
 -->
 
 ### **Operating Systems**
@@ -167,23 +177,6 @@
 <img src="https://skillicons.dev/icons?i=mint" height="40" alt="Mint"/>
 <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux"/>
 <img src="https://skillicons.dev/icons?i=windows" height="40" alt="Windows"/>
--->
-
-### **Others**
-
-<img src="https://img.shields.io/badge/-Photoshop-31a8ff?style=flat&logo=adobe-photoshop&logoColor=white">
-<img src="https://img.shields.io/badge/-Illustrator-ff9a00?style=flat&logo=adobe-illustrator&logoColor=white">
-<img src="https://img.shields.io/badge/-Premiere%20Pro-00005b?style=flat&logo=adobe-premiere&logoColor=white">
-
-<img src="http://img.shields.io/badge/-Notion-ffffff?style=flat&logo=notion&logoColor=black">
-<img src="http://img.shields.io/badge/-Obsidian-4e25a2?style=flat&logo=obsidian&logoColor=white">
-
-<!--
-<img src="https://skillicons.dev/icons?i=ps" height="40" alt="Photoshop"/>
-<img src="https://skillicons.dev/icons?i=ai" height="40" alt="Illustrator"/>
-<img src="https://skillicons.dev/icons?i=pr" height="40" alt="Premiere Pro"/>
-<img src="https://skillicons.dev/icons?i=notion" height="40" alt="Notion"/>
-<img src="https://skillicons.dev/icons?i=obsidian" height="40" alt="Obsidian"/>
 -->
 
 ## 🌎 Wanna Connect?
