@@ -37,7 +37,7 @@
 
 </div>
 
-🎓 1st Year <a href="https://www.cse.ruet.ac.bd/"><b>CSE</b></a> student at <a href="https://ruet.ac.bd/"><b>Rajshahi University of Engineering & Technology</b></a>
+🎓 1st year <a href="https://www.cse.ruet.ac.bd/"><b>CSE</b></a> student at <a href="https://ruet.ac.bd/"><b>Rajshahi University of Engineering & Technology</b></a>
 <br>
 💻 Skilled in **C**, **C++** and **Java** | Currently learning **Python**
 <br>
