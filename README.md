@@ -37,11 +37,11 @@
 
 </div>
 
-🎓 1st year <a href="https://www.cse.ruet.ac.bd/"><b>CSE</b></a> student at <a href="https://ruet.ac.bd/"><b>Rajshahi University of Engineering & Technology</b></a>
+🎓 2nd year <a href="https://www.cse.ruet.ac.bd/"><b>CSE</b></a> student at <a href="https://ruet.ac.bd/"><b>Rajshahi University of Engineering & Technology</b></a>
 <br>
-💻 Skilled in **C**, **C++** and **Java** | Currently learning **Python**
+💻 Skilled in **C**, **C++**, **Java** & **Python**, and Currently exploring **Unity**
 <br>
-🌱 Focused on **DSA** and **OOPS** | Experienced with **Linux**
+🌱 Focused on **DSA**, **OOPS**, **Discrete Mathematics** & **Digital Logic Design**, and experienced with **Linux**
 <br>
 🎯 Career Interests : **AI/ML** • **Competitive Programming** • **Software Engineering**
  
@@ -54,6 +54,10 @@
 [![automated-scratch-card](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fardinnuman&repo=automated-scratch-card&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=5D3FD3&icon_color=5D3FD3)](https://github.com/fardinnuman/automated-scratch-card)
 [![CampusOS](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fardinnuman&repo=CampusOS&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=5D3FD3&icon_color=5D3FD3)](https://github.com/fardinnuman/CampusOS)
 [![MyCash](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fardinnuman&repo=MyCash&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=5D3FD3&icon_color=5D3FD3)](https://github.com/fardinnuman/MyCash)
+
+<!--
+[![train-tracker](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fardinnuman&repo=train-tracker&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=5D3FD3&icon_color=5D3FD3)](https://github.com/fardinnuman/train-tracker)
+-->
 
 ---
 
