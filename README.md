@@ -9,7 +9,7 @@
 
 <p><img src="assets/icon.png" alt="Fardin Numan" height="150dp"></p>
 
-<h1><a href="https://fardinnuman.vercel.app">PORTFOLIO</a></h1>
+<h1><a href="https://fardinnuman.vercel.app" target="_blank">PORTFOLIO</a></h1>
 
 <a href="mailto:fardinnuman@gmail.com">Email</a> ·
 <a href="https://github.com/fardinnuman">GitHub</a> ·
