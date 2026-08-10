@@ -41,11 +41,10 @@
 
 ## 🎓 Academic Repositories
 
-[![automated-scratch-card](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fardinnuman&repo=automated-scratch-card&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=5D3FD3&icon_color=5D3FD3)](https://github.com/fardinnuman/automated-scratch-card)[![MyCash](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fardinnuman&repo=MyCash&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=5D3FD3&icon_color=5D3FD3)](https://github.com/fardinnuman/MyCash)
-<!--
-[![CampusOS](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fardinnuman&repo=CampusOS&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=5D3FD3&icon_color=5D3FD3)](https://github.com/fardinnuman/CampusOS)
--->
-
+[![automated-scratch-card](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fardinnuman&repo=automated-scratch-card&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=5D3FD3&icon_color=5D3FD3)](https://github.com/fardinnuman/automated-scratch-card)
+<!-- [![CampusOS](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fardinnuman&repo=CampusOS&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=5D3FD3&icon_color=5D3FD3)](https://github.com/fardinnuman/CampusOS) -->
+[![MyCash](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fardinnuman&repo=MyCash&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=5D3FD3&icon_color=5D3FD3)](https://github.com/fardinnuman/MyCash)
+[![train-tracker](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fardinnuman&repo=train-tracker&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=5D3FD3&icon_color=5D3FD3)](https://github.com/fardinnuman/train-tracker)
 
 <!--
 [![train-tracker](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fardinnuman&repo=train-tracker&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=5D3FD3&icon_color=5D3FD3)](https://github.com/fardinnuman/train-tracker)
@@ -140,6 +139,7 @@
 <img src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white">
 <img src="https://img.shields.io/badge/Photopea-18A497?logo=photopea&logoColor=white">
 <br>
+<img src="http://img.shields.io/badge/-Excalidraw-6965db?style=flat&logo=excalidraw&logoColor=white">
 <img src="https://img.shields.io/badge/-Photoshop-31a8ff?style=flat&logo=adobe-photoshop&logoColor=white">
 <img src="https://img.shields.io/badge/-Illustrator-ff9a00?style=flat&logo=adobe-illustrator&logoColor=white">
 <img src="https://img.shields.io/badge/-Premiere%20Pro-00005b?style=flat&logo=adobe-premiere&logoColor=white">
@@ -237,7 +237,9 @@
 ![](https://raw.githubusercontent.com/fardinnuman/fardinnuman/profile-3d-output/profile-night-green.svg)
 -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=gradient&text=HELLO%20WORLD!%20%EF%BC%9C/%EF%BC%9E&reversal=false&section=footer&fontSize=42&animation=twinkling&fontAlignY=80">
+<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=gradient&text=HELLO%20WORLD!%20%EF%BC%9C/%EF%BC%9E&reversal=false&section=footer&fontSize=42&animation=twinkling&fontAlignY=80"> -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=gradient&text=SAYONARA! ^.^&reversal=false&section=footer&fontSize=42&animation=twinkling&fontAlignY=80">
 
 <img src="https://github.com/fardinnuman/fardinnuman/blob/main/assets/laptop1.png" align="center" height="200"/>
 </div>
