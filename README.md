@@ -6,8 +6,19 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=009dc5&size=35&duration=2500&pause=1000&center=true&vCenter=true&lines=>.<+Hiiiiii+>.<;I+AM+FARDIN+NUMAN;CSE+STUDENT+AT+RUET;PASSIONATE+CODER;PROBLEM+SOLVER" alt="Typing SVG" />
 
-⚡️ Portfolio : [**fardinnuman.me**](https://fardinnuman.me) <br>
-📬 Reach me at : **fardinnuman@gmail.com**
+
+<p><img src="assets/icon.png" alt="Fardin Numan" height="150dp"></p>
+
+<h1><a href="fardinnuman.vercel.app" target="_blank">PORTFOLIO</a></h1>
+
+<a href="mailto:fardinnuman@gmail.com">Email</a> ·
+<a href="https://github.com/fardinnuman">GitHub</a> ·
+<a href="https://www.facebook.com/i.fardinnuman">Facebook</a> ·
+<a href="https://www.linkedin.com/in/fardinnuman/">LinkedIn</a>
+
+
+<!-- ⚡️ Portfolio : [**fardinnuman.me**](https://fardinnuman.me) <br>
+📬 Reach me at : **fardinnuman@gmail.com** -->
 
 ![Alt text](https://github.com/fardinnuman/fardinnuman/blob/main/assets/banner4.png)
 
@@ -42,7 +53,7 @@
 ## 🎓 Academic Repositories
 
 [![automated-scratch-card](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fardinnuman&repo=automated-scratch-card&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=5D3FD3&icon_color=5D3FD3)](https://github.com/fardinnuman/automated-scratch-card)
-<!-- [![CampusOS](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fardinnuman&repo=CampusOS&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=5D3FD3&icon_color=5D3FD3)](https://github.com/fardinnuman/CampusOS) -->
+[![CampusOS](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fardinnuman&repo=CampusOS&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=5D3FD3&icon_color=5D3FD3)](https://github.com/fardinnuman/CampusOS)
 [![MyCash](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fardinnuman&repo=MyCash&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=5D3FD3&icon_color=5D3FD3)](https://github.com/fardinnuman/MyCash)
 [![train-tracker](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fardinnuman&repo=train-tracker&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=5D3FD3&icon_color=5D3FD3)](https://github.com/fardinnuman/train-tracker)
 
