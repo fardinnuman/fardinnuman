@@ -56,6 +56,7 @@
 [![CampusOS](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fardinnuman&repo=CampusOS&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=5D3FD3&icon_color=5D3FD3)](https://github.com/fardinnuman/CampusOS)
 [![MyCash](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fardinnuman&repo=MyCash&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=5D3FD3&icon_color=5D3FD3)](https://github.com/fardinnuman/MyCash)
 [![train-tracker](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fardinnuman&repo=train-tracker&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=5D3FD3&icon_color=5D3FD3)](https://github.com/fardinnuman/train-tracker)
+[![ExpiryWise](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fardinnuman&repo=ExpiryWise&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=5D3FD3&icon_color=5D3FD3)](https://github.com/fardinnuman/ExpiryWise)
 
 <!--
 [![train-tracker](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fardinnuman&repo=train-tracker&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=5D3FD3&icon_color=5D3FD3)](https://github.com/fardinnuman/train-tracker)
@@ -63,7 +64,7 @@
 
 ---
 
-## 📈 Monthly Contribution Stats
+<!-- ## 📈 Monthly Contribution Stats
 
 <a href="https://github.com/fardinnuman">
 <picture>
@@ -73,15 +74,15 @@
 </picture>
 </a>
 
-<!--
+
 <a href="https://github.com/fardinnuman">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=fardinnuman&bg_color=0D1117&color=ffffff&line=26a641&point=ffffff&area=true&area_color=26a641&hide_border=true"/>
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=fardinnuman&bg_color=ffffff&color=000000&line=26a641&point=000000&area=true&area_color=26a641&hide_border=true">
   <img alt="activity-graph" src="activity-graph.svg"/>
 </picture>
-</a>
--->
+</a> -->
+
 
 <!-- <img height="267em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fardinnuman&theme=github_dark"/> -->
 
