@@ -20,7 +20,7 @@
 <!-- ⚡️ Portfolio : [**fardinnuman.me**](https://fardinnuman.me) <br>
 📬 Reach me at : **fardinnuman@gmail.com** -->
 
-![Alt text](https://github.com/fardinnuman/fardinnuman/blob/main/assets/banner4.png)
+![Alt text](https://github.com/fardinnuman/fardinnuman/blob/main/assets/banner4.png) 
 
  <img src="https://komarev.com/ghpvc/?username=fardinnuman&label=Profile%20views&color=0e75b6&style=flat" alt="fardinnuman"/> 
    
@@ -38,6 +38,7 @@
 
 </div>
 
+<!--
 🎓 2nd year <a href="https://www.cse.ruet.ac.bd/"><b>CSE</b></a> student at <a href="https://ruet.ac.bd/"><b>Rajshahi University of Engineering & Technology</b></a>
 <br>
 💻 Skilled in **C**, **C++**, **Java** & **Python**, and Currently exploring **Unity**
@@ -45,18 +46,48 @@
 🌱 Focused on **DSA**, **OOPS**, **Discrete Mathematics** & **Digital Logic Design**, and experienced with **Linux**
 <br>
 🎯 Career Interests : **AI/ML** • **Competitive Programming** • **Software Engineering**
- 
+-->
+
+🎓 2nd Year <a href="https://www.cse.ruet.ac.bd/"><b>CSE</b></a> student at <a href="https://ruet.ac.bd/"><b>Rajshahi University of Engineering & Technology (RUET)</b></a>
+<br>
+💻 Programming with **C**, **C++**, **Java**, **Python** and **Assembly Language**
+<br>
+🧠 Currently studying **Algorithm Design & Analysis**, **Numerical Methods**, **Microprocessors** & **Microcontrollers**
+<br>
+⚙️ Strong foundations in **Data Structures**, **Object Oriented Programming**, **Discrete Mathematics**, **Digital Logic Design** & **Linux**
+<br>
+🔬 Exploring **Artificial Intelligence**, **Machine Learning**, and **Research & Development**
+<br>
+🧩 Driven by curiosity, logical thinking, and solving challenging problems
+
+
 ---
 
 <div align="center">
 
 ## 🎓 Academic Repositories
 
-[![automated-scratch-card](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fardinnuman&repo=automated-scratch-card&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=5D3FD3&icon_color=5D3FD3)](https://github.com/fardinnuman/automated-scratch-card)
+<!-- [![automated-scratch-card](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fardinnuman&repo=automated-scratch-card&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=5D3FD3&icon_color=5D3FD3)](https://github.com/fardinnuman/automated-scratch-card)
 [![CampusOS](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fardinnuman&repo=CampusOS&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=5D3FD3&icon_color=5D3FD3)](https://github.com/fardinnuman/CampusOS)
 [![MyCash](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fardinnuman&repo=MyCash&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=5D3FD3&icon_color=5D3FD3)](https://github.com/fardinnuman/MyCash)
 [![train-tracker](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fardinnuman&repo=train-tracker&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=5D3FD3&icon_color=5D3FD3)](https://github.com/fardinnuman/train-tracker)
-[![ExpiryWise](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fardinnuman&repo=ExpiryWise&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=5D3FD3&icon_color=5D3FD3)](https://github.com/fardinnuman/ExpiryWise)
+[![ExpiryWise](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fardinnuman&repo=ExpiryWise&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=5D3FD3&icon_color=5D3FD3)](https://github.com/fardinnuman/ExpiryWise) -->
+
+<a href="https://github.com/fardinnuman/automated-scratch-card">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fardinnuman&repo=automated-scratch-card&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=5D3FD3&icon_color=5D3FD3" />
+</a>
+<a href="https://github.com/fardinnuman/CampusOS">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fardinnuman&repo=CampusOS&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=5D3FD3&icon_color=5D3FD3" />
+</a>
+<a href="https://github.com/fardinnuman/MyCash">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fardinnuman&repo=MyCash&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=5D3FD3&icon_color=5D3FD3" />
+</a>
+<a href="https://github.com/fardinnuman/train-tracker">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fardinnuman&repo=train-tracker&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=5D3FD3&icon_color=5D3FD3" />
+</a>
+<a href="https://github.com/fardinnuman/ExpiryWise">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fardinnuman&repo=ExpiryWise&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=5D3FD3&icon_color=5D3FD3" />
+</a>
 
 <!--
 [![train-tracker](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fardinnuman&repo=train-tracker&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=5D3FD3&icon_color=5D3FD3)](https://github.com/fardinnuman/train-tracker)
@@ -245,9 +276,9 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/fardinnuman/fardinnuman/pacman-output/pacman-contribution-graph.svg">
 </picture>
 
-<!--
+
 ![](https://raw.githubusercontent.com/fardinnuman/fardinnuman/profile-3d-output/profile-night-green.svg)
--->
+
 
 <!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=gradient&text=HELLO%20WORLD!%20%EF%BC%9C/%EF%BC%9E&reversal=false&section=footer&fontSize=42&animation=twinkling&fontAlignY=80"> -->
 
