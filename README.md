@@ -300,7 +300,7 @@
 <!-- ![](https://raw.githubusercontent.com/fardinnuman/fardinnuman/profile-3d-output/profile-night-green.svg) -->
 
 <img
-  src="https://ssr-contributions-svg.vercel.app/_/fardinnuman?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&weeks=50&theme=purple&widget_size=large&format=svg"
+  src="https://ssr-contributions-svg.vercel.app/_/fardinnuman?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&weeks=50&theme=green&widget_size=large&format=svg"
   alt="3D Contribution Chart"
   width="100%"
 />
