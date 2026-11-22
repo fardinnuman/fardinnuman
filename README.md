@@ -117,18 +117,37 @@
 
 <!-- <img height="267em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fardinnuman&theme=github_dark"/> -->
 
-## 📈 GitHub Stats
+<!-- ## 📈 GitHub Stats -->
+## 📊 GitHub Analytics
 
 <!--0D1120 -->
 <!--237 -->
 
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=fardinnuman&theme=radical&hide_border=true&background=0D1117&stroke=5D3FD3"/>
+<!-- <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=fardinnuman&theme=radical&hide_border=true&background=0D1117&stroke=5D3FD3"/>
 <br>
 
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fardinnuman&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=5D3FD3&icon_color=5D3FD3"/>
 <br>
 
-<img height="175em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fardinnuman&langs_count=14&layout=compact&hide_border=true&theme=radical&bg_color=0D1117&title_color=5D3FD3&" alt="fardinnuman"/>
+<img height="175em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fardinnuman&langs_count=14&layout=compact&hide_border=true&theme=radical&bg_color=0D1117&title_color=5D3FD3&" alt="fardinnuman"/> -->
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=fardinnuman&custom_title=Contribution%20Graph&bg_color=0D1117&color=5D3FD3&line=A78BFA&point=C9D1D9&area_color=5D3FD3&area=true&hide_border=true" alt="Contribution Graph"/>
+<img src="https://streak-stats.demolab.com/?user=fardinnuman&theme=radical&hide_border=true&background=0D1117&stroke=5D3FD3&ring=5D3FD3&fire=A78BFA&currStreakLabel=5D3FD3&sideLabels=5D3FD3&dates=C9D1D9" alt="GitHub Streak Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fardinnuman&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=5D3FD3&icon_color=A78BFA&text_color=C9D1D9&rank_icon=github"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fardinnuman&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=5D3FD3&text_color=C9D1D9"/>
+
+<!-- <details>
+<summary>📊 Explore More GitHub Analytics</summary>
+<br/>
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fardinnuman&theme=radical&bg_color=0D1117&title_color=5D3FD3&icon_color=A78BFA&text_color=C9D1D9" alt="Profile Overview"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fardinnuman&theme=radical&bg_color=0D1117&title_color=5D3FD3&icon_color=A78BFA&text_color=C9D1D9" alt="Repositories by Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fardinnuman&theme=radical&bg_color=0D1117&title_color=5D3FD3&icon_color=A78BFA&text_color=C9D1D9" alt="Most Used Languages"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fardinnuman&theme=radical&bg_color=0D1117&title_color=5D3FD3&icon_color=A78BFA&text_color=C9D1D9" alt="GitHub Statistics"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fardinnuman&theme=radical&utcOffset=6&bg_color=0D1117&title_color=5D3FD3&icon_color=A78BFA&text_color=C9D1D9" alt="Productive Time"/>
+
+</div>
+</details>  -->
 
 ---
 
@@ -276,9 +295,15 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/fardinnuman/fardinnuman/pacman-output/pacman-contribution-graph.svg">
 </picture>
 
+## 🌍 Global Contribution Insights
 
-![](https://raw.githubusercontent.com/fardinnuman/fardinnuman/profile-3d-output/profile-night-green.svg)
+<!-- ![](https://raw.githubusercontent.com/fardinnuman/fardinnuman/profile-3d-output/profile-night-green.svg) -->
 
+<img
+  src="https://ssr-contributions-svg.vercel.app/_/fardinnuman?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&weeks=50&theme=purple&widget_size=large&format=svg"
+  alt="3D Contribution Chart"
+  width="100%"
+/>
 
 <!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=gradient&text=HELLO%20WORLD!%20%EF%BC%9C/%EF%BC%9E&reversal=false&section=footer&fontSize=42&animation=twinkling&fontAlignY=80"> -->
 
