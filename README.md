@@ -50,9 +50,9 @@
 
 🎓 2nd Year <a href="https://www.cse.ruet.ac.bd/"><b>CSE</b></a> student at <a href="https://ruet.ac.bd/"><b>Rajshahi University of Engineering & Technology (RUET)</b></a>
 <br>
-💻 Programming with **C**, **C++**, **Java**, **Python** and **Assembly Language**
+💻 Programming with **C**, **C++**, **Java** and **Python**
 <br>
-🧠 Currently studying **Algorithm Design & Analysis**, **Numerical Methods**, **Microprocessors** & **Microcontrollers**
+🧠 Currently studying **Algorithm Design & Analysis**, **Numerical Methods**, **Microprocessors** & **Microcontrollers** and **Assembly Language**
 <br>
 ⚙️ Strong foundations in **Data Structures**, **Object Oriented Programming**, **Discrete Mathematics**, **Digital Logic Design** & **Linux**
 <br>
